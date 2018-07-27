@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JumbleGameProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_game">GAMEActivity</string>
+    <string name="title_activity_game1">GAME1Activity</string>
+    <string name="title_activity_game2">GAME2Activity</string>
+    <string name="title_activity_game3">GAME3Activity</string>
+    <string name="title_activity_game4">GAME4Activity</string>
+    <string name="title_activity_game5">GAME5Activity</string>
+    <string name="title_activity_game6">GAME6Activity</string>
+    <string name="title_activity_game7">GAME7Activity</string>
+    <string name="title_activity_game8">GAME8Activity</string>
+    <string name="title_activity_game9">GAME9Activity</string>
+
+</resources>
